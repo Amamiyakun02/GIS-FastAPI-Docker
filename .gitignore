@@ -1,3 +1,5 @@
 .idea
 .gisenv
+# Mengabaikan file .env
+.env
 
